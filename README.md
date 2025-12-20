@@ -9,7 +9,7 @@ I build projects across:
 - Applied computer vision and data-driven systems
 
 ### Featured Projects
-- **Embedded Home Security System** — Distributed embedded Linux system using BeagleY-AI boards, sensors, actuators, and UDP communication  
+- **Embedded Home Security System** — Distributed embedded Linux system using BeagleY-AI boards, sensors, actuators
 - **Execution Unit Design (VHDL)** — Modular execution unit exploring architectural trade-offs, validated in Quartus and ModelSim  
 - **ASL Translator** — Real-time computer vision system for ASL letter recognition using Python, OpenCV, and MediaPipe  
 
