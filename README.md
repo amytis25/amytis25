@@ -1,27 +1,29 @@
-## Hi, I'm Amytis
+# Amytis Saghafi
 
-I'm a systems-focused engineering student with a strong interest in embedded systems, hardware–software integration, and low-level system design.
+Systems and embedded engineering student specializing in hardware-software integration, real-time systems, and low-level software development. Experience spans FPGA-based digital design, embedded Linux applications, and firmware development for resource-constrained platforms.
 
-I build projects across:
-- Embedded Linux and microcontroller-based systems
-- Digital design and hardware description languages (VHDL)
-- C/C++ systems programming and foundational CS concepts
-- Applied computer vision and data-driven systems
+## Featured Projects
 
-### Featured Projects
-- **Embedded Home Security System** — Distributed embedded Linux system using BeagleY-AI boards, sensors, actuators
-- **Execution Unit Design (VHDL)** — Modular execution unit exploring architectural trade-offs, validated in Quartus and ModelSim  
-- **ASL Translator** — Real-time computer vision system for ASL letter recognition using Python, OpenCV, and MediaPipe  
+**[Home Security System](https://github.com/amytis25/Home_Security_System)** — Raspberry Pi Pico-based security system with web interface, real-time sensor monitoring, and remote control capabilities
 
-### Technical Focus
-- C, C++, Python
-- Embedded Linux, GPIO, PWM, I2C, SPI, UART
-- VHDL, digital logic, simulation and verification
-- System-level debugging and integration
+**[Beagle-Y AI](https://github.com/amytis25/Beagle-Y_AI)** — Edge AI applications on BeagleY-AI platform featuring computer vision, voice recognition, and local inference pipelines
 
-📌 See pinned repositories below for selected work.  
-📫 Reach me at: **asa414@sfu.ca**
+**[Digital Systems Design](https://github.com/amytis25/Digital_Systems_Design)** — VHDL execution unit with configurable arithmetic, logic, and shift architectures
 
-  
+**[ASL Translator](https://github.com/amytis25/ASL-Translator)** — Real-time hand gesture recognition system using computer vision and machine learning
 
+**[Reaction Timer](https://github.com/amytis25/Reaction_Timer)** — Bare-metal C application for Raspberry Pi Pico with hardware timer and GPIO interrupt handling
 
+## Technical Focus
+
+**Embedded Systems:** Bare-metal C, RTOS concepts, hardware interfacing, interrupt-driven programming  
+**Platforms:** Raspberry Pi Pico, BeagleY-AI, ARM Cortex-M, FPGA  
+**Digital Design:** VHDL, synthesis, timing analysis, execution unit architecture  
+**Systems Software:** Linux systems programming, IPC, multithreading, network programming  
+**Tools & Methods:** CMake, cross-compilation, GDB, version control, technical documentation
+
+---
+
+See pinned repositories below for detailed technical work.
+
+Contact: asa414@sfu.ca
