@@ -15,7 +15,7 @@ Systems and embedded engineering student specializing in hardware-software integ
 ## Technical Focus
 
 **Embedded Systems:** Bare-metal C, RTOS concepts, hardware interfacing, interrupt-driven programming  
-**Platforms:** Raspberry Pi Pico, BeagleY-AI, ARM Cortex-M, FPGA  
+**Platforms:** Arduino, BeagleY-AI, FPGA  
 **Digital Design:** VHDL, synthesis, timing analysis, execution unit architecture  
 **Systems Software:** Linux systems programming, IPC, multithreading, network programming  
 **Tools & Methods:** CMake, cross-compilation, GDB, version control, technical documentation
