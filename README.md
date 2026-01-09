@@ -6,13 +6,11 @@ Systems and embedded engineering student specializing in hardware-software integ
 
 **[Home Security System](https://github.com/amytis25/Home_Security_System)** — Raspberry Pi Pico-based security system with web interface, real-time sensor monitoring, and remote control capabilities
 
-**[Beagle-Y AI](https://github.com/amytis25/Beagle-Y_AI)** — Edge AI applications on BeagleY-AI platform featuring computer vision, voice recognition, and local inference pipelines
-
 **[Digital Systems Design](https://github.com/amytis25/Digital_Systems_Design)** — VHDL execution unit with configurable arithmetic, logic, and shift architectures
 
 **[ASL Translator](https://github.com/amytis25/ASL-Translator)** — Real-time hand gesture recognition system using computer vision and machine learning
 
-**[Reaction Timer](https://github.com/amytis25/Reaction_Timer)** — Bare-metal C application for Raspberry Pi Pico with hardware timer and GPIO interrupt handling
+**[Reaction Timer](https://github.com/amytis25/Reaction_Timer)** — Bare-metal C application for BeagleY-AI with hardware timer 
 
 ## Technical Focus
 
