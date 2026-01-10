@@ -6,7 +6,7 @@ Systems and embedded engineering student specializing in hardware-software integ
 
 **[Home Security System](https://github.com/amytis25/Home_Security_System)** — Raspberry Pi Pico-based security system with web interface, real-time sensor monitoring, and remote control capabilities
 
-**[Digital Systems Design](https://github.com/amytis25/Digital_Systems_Design)** — VHDL execution unit with configurable arithmetic, logic, and shift architectures
+**[Execution Unit Design](https://github.com/amytis25/Digital_Systems_Design)** — VHDL execution unit with configurable arithmetic, logic, and shift architectures
 
 **[ASL Translator](https://github.com/amytis25/ASL-Translator)** — Real-time hand gesture recognition system using computer vision and machine learning
 
