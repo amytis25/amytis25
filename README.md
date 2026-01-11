@@ -10,12 +10,12 @@ I am especially interested in embedded systems, real-time software, and system-l
 ## Featured Projects
 
 **[🔐 Home Security System](https://github.com/amytis25/Home_Security_System)**  
-Distributed embedded Linux security system built on BeagleY-AI with real-time peripheral monitoring and control.  
+A distributed embedded Linux security system built on BeagleY-AI with real-time peripheral monitoring and control.  
 My contributions focused on hardware bring-up, GPIO-level access in C, enclosure design, and centralized system documentation to support integration and debugging.
 
 **[🧠 Execution Unit Design (VHDL)](https://github.com/amytis25/Execution_Unit_Design)**  
 Configurable 64-bit execution unit implemented in VHDL, including arithmetic, logic, and shifting subsystems.  
-Explores carry-handling strategies, timing behavior, and performance–resource trade-offs through simulation and synthesis.
+Explores carry-handling strategies, timing behaviour, and performance–resource trade-offs through simulation and synthesis.
 
 **[🎮 Force Cube Runner](https://github.com/amytis25/Force_Cube_Runner)**  
 3D obstacle-avoidance game built in Python and OpenGL with optional Arduino-based hardware controls.  
